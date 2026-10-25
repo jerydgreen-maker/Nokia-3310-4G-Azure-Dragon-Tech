@@ -1,0 +1,22 @@
+# Build outputs
+build/
+dist/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.obj
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets and local configuration
+.env
+.env.*
+secrets.*
+credentials.*
+*private-key*
