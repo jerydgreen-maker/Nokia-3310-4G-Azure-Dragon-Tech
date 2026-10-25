@@ -1,5 +1,13 @@
 # English version
 
+
+# RetroShell — Nokia 3310 4G Replacement Board
+
+[![Buy Me a Tea](https://img.shields.io/badge/☕-Support%20Development-FF5E5B?style=for-the-badge)](https://ko-fi.com/jerydgreen)
+
+Support the development of RetroShell by Azure Dragon Tech.
+
+
 ## What is RetroShell?
 
 **RetroShell is an experimental replacement-board project for the original Nokia 3310 electronics.** The goal is to retain the stock enclosure, keypad, and familiar classic-phone experience while introducing modern hardware capabilities and custom firmware.
