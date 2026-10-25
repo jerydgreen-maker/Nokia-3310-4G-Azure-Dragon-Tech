@@ -1,4 +1,3 @@
-# English version
 
 
 # RetroShell — Nokia 3310 4G Replacement Board
